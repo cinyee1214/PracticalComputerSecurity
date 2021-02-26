@@ -1,0 +1,36 @@
+{
+    "player": "[cinyee1214]",
+    "player_team": "[xz2833]",
+    "score_board": "https://github.com/nyupcs/pcs-sp21-lab1-scoreboard",
+    "repo_owner": "nyupcs",
+    "intended_pts": 10,
+    "unintended_pts": 100,
+    "round_frequency": 600,
+    "start_time": "2021-02-10T00:00:00-05:00",
+    "end_time": "2020-02-17T23:59:59-05:00",
+    "exploit_timeout": {
+        "injection_phase": 10,
+        "exercise_phase": 60
+    },
+    "teams": {
+        "lab1": {
+            "repo_name": "pcs-sp21-lab1-server",
+            "bug_branches": ["main"],
+            "pub_key_id": "0D992F4B",
+            "bug1": "Hash",
+            "bug2": "Hash",
+            "bug3": "Hash",
+            "bug4": "Hash"
+        },
+        "instructor": {
+            "repo_name": "-",
+            "pub_key_id": "138ABC62"
+        }
+    },
+    "individual": {
+        "[cinyee1214]": {
+            "pub_key_id": "[80A1E2AD6D92AE4B]",
+            "team": "[xz2833]"
+        }
+    }
+}
