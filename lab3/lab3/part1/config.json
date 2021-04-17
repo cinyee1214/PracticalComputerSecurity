@@ -1,0 +1,39 @@
+{
+    "player": "cinyee1214",
+    "player_team": "xz2833, Xinyi Zhao",
+    "score_board": "https://github.com/nyupcs/pcs-sp21-lab3-partial-scoreboard",
+    "repo_owner": "nyupcs",
+    "intended_pts": 10,
+    "unintended_pts": 100,
+    "round_frequency": 600,
+    "start_time": "2021-02-10T00:00:00-05:00",
+    "end_time": "2020-03-03T23:59:59-05:00",
+    "exploit_timeout": {
+        "injection_phase": 10,
+        "exercise_phase": 60
+    },
+    "teams": {
+        "lab3": {
+            "repo_name": "pcs-sp21-lab3-partial-credit-server",
+            "bug_branches": [
+                "main"
+            ],
+            "pub_key_id": "7F4B2883",
+            "bug1": "Hash",
+            "bug2": "Hash",
+            "bug3": "Hash",
+            "bug4": "Hash",
+            "main": "4e3e44b6a6e102115dc4a1908890817d6c64b3b0"
+        },
+        "instructor": {
+            "repo_name": "-",
+            "pub_key_id": "7F4B2883"
+        }
+    },
+    "individual": {
+        "cinyee1214": {
+            "pub_key_id": "C8423F33BFEFCCFE",
+            "team": "xz2833, Xinyi Zhao"
+        }
+    }
+}
